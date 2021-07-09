@@ -1,0 +1,4 @@
+StudentID,RollNo,Name,Department,Time,Date,Attendance
+5001,1,Ankita,CSE,12.56.00,29/04/2021,Present
+[StudentID,RollNo,Name,Department,Time,Date,Attendance]
+5001,1,Ankita,CSE,12:56:00,29/04/2021,Present
